@@ -100,6 +100,8 @@ Step 20 : New measure was created to find Average ratings,
 
             Average Ratings = 
                 [Total Ratings]/[Total number of ratings]
+
+step 21 : Add a reset button with reset function to return back to its orginal value.
  
 
 # Insights
