@@ -2,8 +2,6 @@
 
 # BlinkIt Dashboard
 
-### Dashboard Link :https://drive.google.com/file/d/17vJKzv3bD352zqUKr2d-bQg_Aq9Bl4qA/view?usp=sharing
-
 
 ## Problem Statement
 
